@@ -7,9 +7,10 @@
 			"ACES\\" : "security"
 		}
 	},
-    "name": "carykin/aces-php-sdk",
+ 	"license": "MIT",
+    	"name": "carykin/aces-php-sdk",
 	"type" : "library",
-    "description": "aces php sdk",
+    	"description": "aces php sdk",
 	"version": "1.0.0",
 	"require" : {
 		"php" : ">=5.6",
